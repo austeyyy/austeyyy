@@ -1,8 +1,14 @@
+
+
+## Hi 👋 I'm Austen Young
+
 # 💫 About Me:
 I'm a third-year Computer Science and UX student at The Ohio State University, passionate about designing and building accessible, user-centered web applications that stand out through thoughtful design and clean code.
 
+# 🚀 What I'm Up To:
+• 🤖 Exploring machine learning & building FaceFrame
 
-## 🌐 Socials:
+## 🌐 Let's Connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/austenyoung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:austeytech@gmail.com) 
 
 # 💻 Tech Stack:
