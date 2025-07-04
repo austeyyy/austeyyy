@@ -9,7 +9,8 @@
 
 ## 🚀 What I'm Up To:
 <ul>
-  <li>🤖 Exploring machine learning & building FaceFrame</li>
+  <li>🤖 Building FaceFrame</li>
+  <li>🎨 Exploring NextJS and other frontend technologies</li>
 </ul> 
 <p>
   🔗 Check out my <a href="https://austenyoung.dev" target="_blank">portfolio</a>!
