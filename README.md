@@ -16,8 +16,6 @@
   🔗 Check out my <a href="https://austenyoung.dev" target="_blank">portfolio</a>!
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/austenyoung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:austeytech@gmail.com) 
-
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
